@@ -1,0 +1,1595 @@
+delta_x = 0, delta_y = 0, delta_yaw = 0.000738138503530994
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.0006881952285766602
+x_start = 1396
+y_start = 523
+yaw_start = 0.000738138503530994
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017738138503530995
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017738138503530995
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017738138503530995
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017738138503530995
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.000738138503530994
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017738138503530995
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 7.38138504e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00040388395811463695
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.0008789300918581322
+x_start = 1396
+y_start = 523
+yaw_start = 0.00040388395811463695
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017403883958114638
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017403883958114638
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017403883958114638
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017403883958114638
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00040388395811463695
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017403883958114638
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 4.03883958e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.000313242466959629
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.001832584934677639
+x_start = 1396
+y_start = 523
+yaw_start = 0.000313242466959629
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01731324246695963
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01731324246695963
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01731324246695963
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01731324246695963
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.000313242466959629
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01731324246695963
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 3.13242467e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00015025944719715412
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.0021027326583862305
+x_start = 1396
+y_start = 523
+yaw_start = 0.00015025944719715412
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017150259447197155
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017150259447197155
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017150259447197155
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017150259447197155
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00015025944719715412
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017150259447197155
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 1.50259447e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00039072855961164166
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.0027033090591432885
+x_start = 1396
+y_start = 523
+yaw_start = 0.00039072855961164166
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 147, diff = 19
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017390728559611643
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017390728559611643
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017390728559611643
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 141, diff = 13
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017390728559611643
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 136, diff = 8
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 136, diff = 8
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00039072855961164166
+frame_sum = 128, map_sum = 137, diff = 9
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017390728559611643
+frame_sum = 128, map_sum = 136, diff = 8
+      fun: 8
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.3960000e+03, 5.1300000e+02, 3.9072856e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0001366741368276081
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.003459930419921875
+x_start = 1396
+y_start = 523
+yaw_start = 0.0001366741368276081
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 147, diff = 21
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01713667413682761
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01713667413682761
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 144, diff = 18
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 144, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01713667413682761
+frame_sum = 126, map_sum = 144, diff = 18
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 140, diff = 14
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 140, diff = 14
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 141, diff = 15
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01713667413682761
+frame_sum = 126, map_sum = 140, diff = 14
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 136, diff = 10
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 136, diff = 10
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0001366741368276081
+frame_sum = 126, map_sum = 137, diff = 11
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01713667413682761
+frame_sum = 126, map_sum = 136, diff = 10
+      fun: 10
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 1.36674137e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 9.424115934031363e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, 0.003531932830810547
+x_start = 1396
+y_start = 523
+yaw_start = 9.424115934031363e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017094241159340315
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017094241159340315
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017094241159340315
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017094241159340315
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 9.424115934031363e-05
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017094241159340315
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 9.42411593e-05])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0008709541802556231
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0021549463272094727
+x_start = 1396
+y_start = 523
+yaw_start = 0.0008709541802556231
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 147, diff = 19
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017870954180255624
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017870954180255624
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017870954180255624
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 141, diff = 13
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017870954180255624
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 136, diff = 8
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 136, diff = 8
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0008709541802556231
+frame_sum = 128, map_sum = 137, diff = 9
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017870954180255624
+frame_sum = 128, map_sum = 136, diff = 8
+      fun: 8
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.3960000e+03, 5.1300000e+02, 8.7095418e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0005039503468915463
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.001660466194152832
+x_start = 1396
+y_start = 523
+yaw_start = 0.0005039503468915463
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017503950346891547
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017503950346891547
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017503950346891547
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017503950346891547
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0005039503468915463
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017503950346891547
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 5.03950347e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0006192250106935582
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0012354850769042969
+x_start = 1396
+y_start = 523
+yaw_start = 0.0006192250106935582
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 147, diff = 19
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01761922501069356
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 146, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01761922501069356
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 145, diff = 17
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01761922501069356
+frame_sum = 128, map_sum = 144, diff = 16
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 141, diff = 13
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01761922501069356
+frame_sum = 128, map_sum = 140, diff = 12
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 136, diff = 8
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 136, diff = 8
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0006192250106935582
+frame_sum = 128, map_sum = 137, diff = 9
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01761922501069356
+frame_sum = 128, map_sum = 136, diff = 8
+      fun: 8
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 6.19225011e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0003793939820897485
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0010423660278320312
+x_start = 1396
+y_start = 523
+yaw_start = 0.0003793939820897485
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01737939398208975
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01737939398208975
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01737939398208975
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01737939398208975
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0003793939820897485
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01737939398208975
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 3.79393982e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0001776318643500474
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0008219480514526367
+x_start = 1396
+y_start = 523
+yaw_start = 0.0001776318643500474
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01717763186435005
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01717763186435005
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01717763186435005
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01717763186435005
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0001776318643500474
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01717763186435005
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 1.77631864e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00020236485785130043
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0006288290023803711
+x_start = 1396
+y_start = 523
+yaw_start = 0.00020236485785130043
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0172023648578513
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0172023648578513
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0172023648578513
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0172023648578513
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00020236485785130043
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0172023648578513
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 2.02364858e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 3.697520113510322e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0011371712797771938
+x_start = 1396
+y_start = 523
+yaw_start = 3.697520113510322e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017036975201135104
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017036975201135104
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017036975201135104
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017036975201135104
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 3.697520113510322e-05
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017036975201135104
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 3.69752011e-05])
+delta_x = 0, delta_y = 0, delta_yaw = 0.000495186975400852
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.0008662939071657494
+x_start = 1396
+y_start = 523
+yaw_start = 0.000495186975400852
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017495186975400853
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017495186975400853
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017495186975400853
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017495186975400853
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.000495186975400852
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017495186975400853
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 4.95186975e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 7.15160569590978e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.00033497810363747327
+x_start = 1396
+y_start = 523
+yaw_start = 7.15160569590978e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0170715160569591
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0170715160569591
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0170715160569591
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0170715160569591
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 7.15160569590978e-05
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0170715160569591
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.3960000e+03, 5.1300000e+02, 7.1516057e-05])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0004221603987524247
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, -0.00011110305786110608
+x_start = 1396
+y_start = 523
+yaw_start = 0.0004221603987524247
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017422160398752426
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017422160398752426
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017422160398752426
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017422160398752426
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0004221603987524247
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017422160398752426
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 4.22160399e-04])
+delta_x = 0, delta_y = 0, delta_yaw = -0.00010738199704629636
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, 2.7418136596901732e-05
+x_start = 1396
+y_start = 523
+yaw_start = -0.00010738199704629636
+crop_frame called: x = 1396.0, y = 523.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.016892618002953705
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.016892618002953705
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.016892618002953705
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.016892618002953705
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = -0.00010738199704629636
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.016892618002953705
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([ 1.39600000e+03,  5.13000000e+02, -1.07381997e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0005538204951873738
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 522, 0.00024962425231933594
+x_start = 1396
+y_start = 523
+yaw_start = 0.0005538204951873738
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 147, diff = 37
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017553820495187375
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017553820495187375
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017553820495187375
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 141, diff = 31
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017553820495187375
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0005538204951873738
+frame_sum = 110, map_sum = 137, diff = 27
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017553820495187375
+frame_sum = 110, map_sum = 136, diff = 26
+      fun: 26
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 5.53820495e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00042292895754103554
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.002292037010193093
+x_start = 1396
+y_start = 523
+yaw_start = 0.00042292895754103554
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017422928957541037
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017422928957541037
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017422928957541037
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017422928957541037
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00042292895754103554
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017422928957541037
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 4.22928958e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00015258510898830124
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0021837949752809838
+x_start = 1396
+y_start = 523
+yaw_start = 0.00015258510898830124
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 147, diff = 37
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017152585108988302
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017152585108988302
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017152585108988302
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 141, diff = 31
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017152585108988302
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00015258510898830124
+frame_sum = 110, map_sum = 137, diff = 27
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017152585108988302
+frame_sum = 110, map_sum = 136, diff = 26
+      fun: 26
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 1.52585109e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0007999389107227195
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.002116084098815918
+x_start = 1396
+y_start = 523
+yaw_start = 0.0007999389107227195
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01779993891072272
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01779993891072272
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01779993891072272
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01779993891072272
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0007999389107227195
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01779993891072272
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 7.99938911e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.0005985257151790435
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0014411211013793945
+x_start = 1396
+y_start = 523
+yaw_start = 0.0005985257151790435
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 147, diff = 37
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017598525715179045
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017598525715179045
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017598525715179045
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 141, diff = 31
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017598525715179045
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.0005985257151790435
+frame_sum = 110, map_sum = 137, diff = 27
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017598525715179045
+frame_sum = 110, map_sum = 136, diff = 26
+      fun: 26
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 5.98525715e-04])
+delta_x = 0, delta_y = 0, delta_yaw = -3.215696345781893e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0007447004318237305
+x_start = 1396
+y_start = 523
+yaw_start = -3.215696345781893e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1397.0, y = 523.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 524.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 147, diff = 37
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.016967843036542182
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1397.0, y = 522.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 523.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 146, diff = 36
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.016967843036542182
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1397.0, y = 521.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 522.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 145, diff = 35
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.016967843036542182
+frame_sum = 110, map_sum = 144, diff = 34
+crop_frame called: x = 1396.0, y = 517.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1397.0, y = 517.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 518.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 141, diff = 31
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.016967843036542182
+frame_sum = 110, map_sum = 140, diff = 30
+crop_frame called: x = 1396.0, y = 513.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1397.0, y = 513.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 136, diff = 26
+crop_frame called: x = 1396.0, y = 514.0, yaw = -3.215696345781893e-05
+frame_sum = 110, map_sum = 137, diff = 27
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.016967843036542182
+frame_sum = 110, map_sum = 136, diff = 26
+      fun: 26
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([ 1.39600000e+03,  5.13000000e+02, -3.21569635e-05])
+delta_x = 0, delta_y = 0, delta_yaw = 7.269098456452738e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0008592605590820312
+x_start = 1396
+y_start = 523
+yaw_start = 7.269098456452738e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01707269098456453
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01707269098456453
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01707269098456453
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01707269098456453
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 7.269098456452738e-05
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01707269098456453
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 7.26909846e-05])
+delta_x = 0, delta_y = 0, delta_yaw = -0.0001318547788100588
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0008738040924070045
+x_start = 1396
+y_start = 523
+yaw_start = -0.0001318547788100588
+crop_frame called: x = 1396.0, y = 523.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.016868145221189942
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.016868145221189942
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.016868145221189942
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.016868145221189942
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = -0.0001318547788100588
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.016868145221189942
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([ 1.39600000e+03,  5.13000000e+02, -1.31854779e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 0.00025607565539820243
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0006539821624755859
+x_start = 1396
+y_start = 523
+yaw_start = 0.00025607565539820243
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1397.0, y = 523.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 524.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 147, diff = 15
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017256075655398204
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1397.0, y = 522.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 146, diff = 14
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017256075655398204
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1397.0, y = 521.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 145, diff = 13
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017256075655398204
+frame_sum = 132, map_sum = 144, diff = 12
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1397.0, y = 517.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 518.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 141, diff = 9
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017256075655398204
+frame_sum = 132, map_sum = 140, diff = 8
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1397.0, y = 513.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 136, diff = 4
+crop_frame called: x = 1396.0, y = 514.0, yaw = 0.00025607565539820243
+frame_sum = 132, map_sum = 137, diff = 5
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017256075655398204
+frame_sum = 132, map_sum = 136, diff = 4
+      fun: 4
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 2.56075655e-04])
+delta_x = 0, delta_y = 0, delta_yaw = 5.934755707803774e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.00019991397857666016
+x_start = 1396
+y_start = 523
+yaw_start = 5.934755707803774e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1397.0, y = 523.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 524.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 147, diff = 20
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.01705934755707804
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1397.0, y = 522.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 523.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 146, diff = 19
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.01705934755707804
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1397.0, y = 521.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 522.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 145, diff = 18
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.01705934755707804
+frame_sum = 127, map_sum = 144, diff = 17
+crop_frame called: x = 1396.0, y = 517.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1397.0, y = 517.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 518.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 141, diff = 14
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.01705934755707804
+frame_sum = 127, map_sum = 140, diff = 13
+crop_frame called: x = 1396.0, y = 513.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1397.0, y = 513.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 136, diff = 9
+crop_frame called: x = 1396.0, y = 514.0, yaw = 5.934755707803774e-05
+frame_sum = 127, map_sum = 137, diff = 10
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.01705934755707804
+frame_sum = 127, map_sum = 136, diff = 9
+      fun: 9
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 5.93475571e-05])
+delta_x = 0, delta_y = 0, delta_yaw = 1.382423338025518e-05
+curr_pose: 1396, 523, 0.0
+curr_map_pose: 1396, 523, -0.0003370046615600586
+x_start = 1396
+y_start = 523
+yaw_start = 1.382423338025518e-05
+crop_frame called: x = 1396.0, y = 523.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1397.0, y = 523.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1396.0, y = 524.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 147, diff = 21
+crop_frame called: x = 1396.0, y = 523.0, yaw = 0.017013824233380256
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1396.0, y = 522.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1397.0, y = 522.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1396.0, y = 523.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 146, diff = 20
+crop_frame called: x = 1396.0, y = 522.0, yaw = 0.017013824233380256
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1396.0, y = 521.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 144, diff = 18
+crop_frame called: x = 1397.0, y = 521.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 144, diff = 18
+crop_frame called: x = 1396.0, y = 522.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 145, diff = 19
+crop_frame called: x = 1396.0, y = 521.0, yaw = 0.017013824233380256
+frame_sum = 126, map_sum = 144, diff = 18
+crop_frame called: x = 1396.0, y = 517.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 140, diff = 14
+crop_frame called: x = 1397.0, y = 517.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 140, diff = 14
+crop_frame called: x = 1396.0, y = 518.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 141, diff = 15
+crop_frame called: x = 1396.0, y = 517.0, yaw = 0.017013824233380256
+frame_sum = 126, map_sum = 140, diff = 14
+crop_frame called: x = 1396.0, y = 513.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 136, diff = 10
+crop_frame called: x = 1397.0, y = 513.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 136, diff = 10
+crop_frame called: x = 1396.0, y = 514.0, yaw = 1.382423338025518e-05
+frame_sum = 126, map_sum = 137, diff = 11
+crop_frame called: x = 1396.0, y = 513.0, yaw = 0.017013824233380256
+frame_sum = 126, map_sum = 136, diff = 10
+      fun: 10
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([0., 1., 0.])
+  message: b'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     nfev: 20
+      nit: 2
+   status: 0
+  success: True
+        x: array([1.39600000e+03, 5.13000000e+02, 1.38242334e-05])
