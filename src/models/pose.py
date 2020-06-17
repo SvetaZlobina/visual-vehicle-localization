@@ -14,7 +14,7 @@ class Pose:
 
 class Position:
     def __init__(self, x, y, z, scale, zero_x, zero_y, size_x, size_y):
-        self.x = meters_to_pixels(x, scale, zero_x)  # in meters
+        self.x = meters_to_pixels(x, scale, zero_x, size_x)  # in meters
         self.y = meters_to_pixels_reversed(y, scale, zero_y, size_y)
         self.z = z
 

@@ -21,7 +21,7 @@ class Frame:
         for elem in features_list:
             for index in range(len(elem.pts) - 1):
                 draw_line(img=self.frame_as_img,
-                          point1_x=meters_to_pixels(elem.pts[index].x, scale, correction_x),
+                          point1_x=meters_to_pixels(elem.pts[index].x, scale, correction_x, self.size_x),
                           point1_y=meters_to_pixels_reversed(elem.pts[index].y, scale, correction_y, self.size_y),
-                          point2_x=meters_to_pixels(elem.pts[index + 1].x, scale, correction_x),
+                          point2_x=meters_to_pixels(elem.pts[index + 1].x, scale, correction_x, self.size_x),
                           point2_y=meters_to_pixels_reversed(elem.pts[index + 1].y, scale, correction_y, self.size_y))

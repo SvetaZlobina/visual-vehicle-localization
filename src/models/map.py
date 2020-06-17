@@ -1,8 +1,13 @@
 import json
 import numpy as np
-from matplotlib import pyplot as plt
-from matplotlib.path import Path
 import math
+
+import sys
+
+sys.path.remove('/opt/ros/lunar/lib/python2.7/dist-packages')  # in order to import cv2 under python3
+import cv2
+
+sys.path.append('/opt/ros/lunar/lib/python2.7/dist-packages')  # append back in order to import rospy
 
 from util.line import draw_line
 from util.utils import meters_to_pixels, meters_to_pixels_reversed, save_array_as_png, rotate_on_angle
@@ -22,8 +27,9 @@ class Map:
         self.zero_y = float(map_dict['img']['zeroY'])
         self.size_x = map_dict['img']['sizeX']
         self.size_y = map_dict['img']['sizeY']
+        self.count = 1
 
-        self.map_as_img = np.zeros((self.size_y, self.size_x, 3), dtype=np.uint8)
+        self.map_as_img = np.zeros((self.size_y, self.size_x), dtype=np.uint8)
 
         for elem in self.markup:
             if elem['type'] == Map.MAP_TYPE_LINE:
@@ -50,54 +56,29 @@ class Map:
     def crop_frame(self, x, y, yaw, view_region):
 
         print("crop_frame called: x = {}, y = {}, yaw = {}".format(x, y, yaw))
-        # (middle_x, middle_y) - rotation origin (center) - middle bottom point of the frame
-        middle_x = int(x)
-        # TODO: add yaw condition (+/- size_y)
-        middle_y = int(y + view_region.size_y)
 
-        bottom_left = rotate_on_angle(x - int(view_region.size_x / 2), y, yaw, middle_x, middle_y)
-        top_left = rotate_on_angle(x - int(view_region.size_x / 2), y + view_region.size_y, yaw, middle_x, middle_y)
-        top_right = rotate_on_angle(x + int(view_region.size_x / 2), y + view_region.size_y, yaw, middle_x, middle_y)
-        bottom_right = rotate_on_angle(x + int(view_region.size_x / 2), y, yaw, middle_x, middle_y)
+        rect = cv2.minAreaRect(
+            np.array([[int(x - view_region.size_x / 2), int(y)],
+                      [int(x - view_region.size_x / 2), int(y + view_region.size_y)],
+                      [int(x + view_region.size_x / 2), int(y + view_region.size_y)],
+                      [int(x + view_region.size_x / 2), int(y)]]))
 
-        max_margin = max(view_region.size_y, view_region.size_x)
-        y_min = int(y - max_margin)
-        y_max = int(y + view_region.size_y + max_margin)
-        x_min = int(x - view_region.size_x / 2 - max_margin)
-        x_max = int(x + view_region.size_x / 2 + max_margin)
+        mask = np.zeros((self.size_y, self.size_x), dtype=np.uint8)
 
-        cropped = self.map_as_img[y_min:y_max, x_min:x_max]
-        # plt.imsave('cropped.png', cropped)
+        rotation_matrix = cv2.getRotationMatrix2D((self.size_y / 2, self.size_x / 2), math.degrees(-yaw), 1)
 
-        yc = np.array([bottom_left[0] - y_min, top_left[0] - y_min, top_right[0] - y_min, bottom_right[0] - y_min])
-        xc = np.array([bottom_left[1] - x_min, top_left[1] - x_min, top_right[1] - x_min, bottom_right[1] - x_min])
-        xycrop = np.vstack((xc, yc)).T
+        box = cv2.boxPoints(rect)
+        pts = np.int0(cv2.transform(np.array([box]), rotation_matrix))[0]
 
-        nr, nc, ncolor = cropped.shape
-        ygrid, xgrid = np.mgrid[:nr, :nc]
-        xypix = np.vstack((xgrid.ravel(), ygrid.ravel())).T
+        cv2.fillPoly(mask, [pts], 255)
+        cv2.imwrite('mask{}.png'.format(self.count), mask)
 
-        pth = Path(xycrop, closed=False)
-        mask = pth.contains_points(xypix)
-        mask = mask.reshape((nr, nc))
-        masked = np.ma.masked_array(cropped[:, :, 0], ~mask)
-        # xmin, xmax = int(xc.min()), int(np.ceil(xc.max()))
-        # ymin, ymax = int(yc.min()), int(np.ceil(yc.max()))
-        # trimmed = masked[ymin:ymax, xmin:xmax]
+        masked_image = cv2.bitwise_and(self.map_as_img, mask)
+        cv2.imwrite('map_frame{}.png'.format(self.count), masked_image)
 
-        # rr, cc = line(bottom_left[0], bottom_left[1], top_left[0], top_left[1])
-        # cropped[rr, cc] = (255, 255, 0)
-        # rr, cc = line(top_left[0], top_left[1], top_right[0], top_right[1])
-        # cropped[rr, cc] = (255, 255, 0)
-        # rr, cc = line(top_right[0], top_right[1], bottom_right[0], bottom_right[1])
-        # cropped[rr, cc] = (255, 255, 0)
-        # rr, cc = line(bottom_right[0], bottom_right[1], bottom_left[0], bottom_left[1])
-        # cropped[rr, cc] = (255, 255, 0)
-        # plt.imsave('cropped_map.png', cropped)
+        self.count += 1
 
-        # plt.imsave('masked.png', masked)
-        # plt.imsave('trimmed.png', trimmed)
-        return masked
+        return masked_image
 
     def save_as_png(self, file_name):
         save_array_as_png(self.map_as_img, file_name)

@@ -10,6 +10,8 @@ class Bag:
     def __init__(self, file_path):
         self.file = rosbag.Bag(file_path)
         self.view_region = None
+        self.camera_correction_x = 0.4
+        self.camera_correction_y = 0.3
 
     def set_view_region(self, view_region):
         self.view_region = view_region
