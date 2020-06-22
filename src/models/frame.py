@@ -3,6 +3,13 @@ import numpy as np
 from util.line import draw_line
 from util.utils import meters_to_pixels, meters_to_pixels_reversed, save_array_as_png
 
+import sys
+
+sys.path.remove('/opt/ros/lunar/lib/python2.7/dist-packages')  # in order to import cv2 under python3
+import cv2
+
+sys.path.append('/opt/ros/lunar/lib/python2.7/dist-packages')  # append back in order to import rospy
+
 
 class Frame:
     def __init__(self, msg, scale, view_region):
@@ -15,7 +22,7 @@ class Frame:
         self._draw_frame_features(msg.edges, scale, view_region.correction_x, view_region.correction_y)
 
     def save_as_png(self, file_name):
-        save_array_as_png(self.frame_as_img, file_name)
+        cv2.imwrite('{}.png'.format(file_name), np.invert(self.frame_as_img))
 
     def _draw_frame_features(self, features_list, scale, correction_x, correction_y):
         for elem in features_list:

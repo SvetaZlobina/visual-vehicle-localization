@@ -71,14 +71,25 @@ class Map:
         pts = np.int0(cv2.transform(np.array([box]), rotation_matrix))[0]
 
         cv2.fillPoly(mask, [pts], 255)
-        cv2.imwrite('mask{}.png'.format(self.count), mask)
+        cv2.imwrite('mask{}.png'.format(self.count), np.invert(mask))
 
         masked_image = cv2.bitwise_and(self.map_as_img, mask)
-        cv2.imwrite('map_frame{}.png'.format(self.count), masked_image)
+        # cv2.imwrite('map_frame{}.png'.format(self.count), masked_image)
+
+        back_rotation_matrix = cv2.getRotationMatrix2D((self.size_y / 2, self.size_x / 2), math.degrees(yaw), 1)
+        final_rect = cv2.minAreaRect(np.int0(pts))
+        final_box = cv2.boxPoints(final_rect)
+        pts_final = np.int0(cv2.transform(np.int0([final_box]), back_rotation_matrix))[0]
+
+        x, y, w, h = cv2.boundingRect(pts_final)
+        w = view_region.size_x
+        h = view_region.size_y
+        cropped = masked_image[y: y + h, x: x + w]
+        cv2.imwrite('cropped{}.png'.format(self.count), np.invert(cropped))
 
         self.count += 1
 
-        return masked_image
+        return cropped
 
     def save_as_png(self, file_name):
-        save_array_as_png(self.map_as_img, file_name)
+        cv2.imwrite('{}.png'.format(file_name), np.invert(self.map_as_img))
